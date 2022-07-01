@@ -1,0 +1,19 @@
+.place-card{
+  background-color:#fff;
+  width:38%;  
+  margin:20px;
+}
+.image{
+    object-fit:cover;
+}
+.heading{
+    font-size:18px;
+    color: #475569;
+    font-weight:600;
+    font-family:"Roboto";
+}
+.description{
+     font-size:16px;
+    font-family:"Roboto";
+    color: #64748b;
+}
